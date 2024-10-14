@@ -1,9 +1,11 @@
 # CSE335 Project 2
-This is the starter project for CSE335 Project 2. It consists of these CMake projects:
+This projects consists of two sub projects.
 
-1. CanadianExperience root project
-2. CanadianExperienceLib library project
-3. Tests unit testing for CanadianExperienceLib
-4. MachineLib library project for machine
-5. MachineDemo machine demonstrator
-6. MachineTests testing for MachineLib
+Snowblower Project:
+  Snowblower machine is animated to blow snow
+  with rotating pulleys and motor operating machine.
+
+Canadian Experience:
+  Developed ability to move characters and record their movements.
+  Recording can be played back and saved in a file to create movie.
+  Machine can be displayed with characters by implementing adapter functionality.
